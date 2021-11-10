@@ -1,0 +1,12 @@
+CARPETA
+CARPETA2
+PAGINA.txt
+apuntes.pdf
+carpetaDemo
+folderNew
+notas.pdf
+pagina182.html
+pagina2.html
+recicloFun
+texto2.txt
+texto3.txt
